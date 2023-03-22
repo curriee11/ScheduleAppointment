@@ -20,7 +20,7 @@ body {
     padding: 20px;
   }
   
-  form {
+  .form {
     max-width: 500px;
     margin: 0 auto;
   }
